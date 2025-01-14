@@ -1,8 +1,15 @@
-# React + Vite
+# Clone do Twitter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto de uma cópia simplificada do Twitter para visualização de postagens e tendências, sem necessidade de cadastro.
 
-Currently, two official plugins are available:
+## Principais Funcionalidades
+- Visualizar postagens.
+- Postar novos Tweets
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologias
+- **Frontend**: HTML, CSS, JavaScript.
+
+## Como Usar
+1. Clone este repositório:
+2. Rode o comando npm install
+3. Rode o comando npm run dev
