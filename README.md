@@ -1,15 +1,15 @@
-# Clone do Twitter
+# Twitter Clone
 
-Projeto de uma cópia simplificada do Twitter para visualização de postagens e tendências, sem necessidade de cadastro.
+A simplified Twitter clone for viewing posts and trends, with the ability to post new tweets, no account required.
 
-## Principais Funcionalidades
-- Visualizar postagens.
-- Postar novos Tweets
+## Key Features
+- View posts.
+- Create and publish new tweets.
 
-## Tecnologias
+## Technologies
 - **Frontend**: HTML, CSS, JavaScript.
 
-## Como Usar
-1. Clone este repositório:
-2. Rode o comando npm install
-3. Rode o comando npm run dev
+## How to Use
+1. Clone this repository
+2. Install dependencies: npm install
+3. Start the development server: npm run dev
